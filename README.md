@@ -1,4 +1,4 @@
-<p align="right">Abdullah Agah KANAT<br>Jan, 2023</p>
+
 <h1 align="center"><strong>ALZHEIMER DIAGNOSING<br>WITH<br>DEEP LEARNING</strong></h1> 
 <h2 align="center" ><strong>Abstract</strong></h2>
 The aim of this study is to diagnose Alzheimer's using convolutional neural network from brain MRI images. In this study, there will be some previous studies on this subject and the results of these studies. We will process the effects of the studies and compare them with our own study. We want to test and see if we can get better results from existing uses.
